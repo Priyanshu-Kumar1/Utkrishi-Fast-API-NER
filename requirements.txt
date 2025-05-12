@@ -1,3 +1,4 @@
 fastapi[all]
 spacy
 uvicorn
+spacy-transformers
